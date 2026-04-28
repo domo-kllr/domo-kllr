@@ -1,6 +1,6 @@
 ## Hello!
 ### My Private Repositories:
-- C / C++ Bits
+- C / C++ Code
 <!--
 **domo-kllr/domo-kllr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
